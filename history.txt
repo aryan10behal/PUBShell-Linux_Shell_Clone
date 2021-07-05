@@ -1,0 +1,143 @@
+history
+history -n sada
+exit
+cd asdasd
+exit
+cd ./sdasd
+exit
+pwd sadad
+exit
+pwd sdsada
+pwd asdfddaa
+exit
+echo sad\n
+echo "asdsad"
+echo -asda sadfdf
+exit
+echo "asdasd"
+echo 'asdasdasda'
+exit
+rm -erm
+rm -x adadexit
+date -u eer
+date
+date -udate -Rexit
+cat
+cat -eexit
+mkdi
+exit
+mkdir
+exit
+ls /home/aryan10behal/Desktoprm symmkdir
+exit
+mkdir -eexit
+mkdir
+mkdir -emkdir -vls
+exit
+ls
+ls -texit
+ls -texit
+ls -texit
+history
+exit
+cd
+cd -P Desktop
+cd Desktop
+cd assignment2/ques1
+exit
+cd -P /home/aryab10behal/Desktop
+cd -P /home/aryan10behal
+exit
+cd -
+exit
+cd -
+cd -P desktop
+cd -P Desktop
+cd ..
+cd ..
+cd -P assignment2
+cd -
+exit
+cd ..
+cd -
+exit
+cd -
+exit
+cd ./shell
+cd -
+exit
+ls /home/aryan10behls /home/aryan10behalexit
+ls quesls ques2exit
+ls ques2date
+exit
+date
+exit
+cd -l
+exit
+exit
+exit
+ls
+exit
+ls
+exit
+date
+ls
+mkdir
+cat
+rm
+exit
+exit
+pwd -P
+pwd
+exit
+pwd -P
+pwd -help
+exit
+pwd -help
+exit
+pwd -help
+exit
+pwd -l
+exit
+history
+exit
+cd ..
+exit
+cd ..
+cd ques2
+cd ../..
+cd
+cd Desktop
+pwd
+pwd -P
+date
+cd -
+cd -P
+cd -L
+exit
+cd -
+cd -L
+exit
+cd -P
+cd -
+exit
+cd -P
+cd -L
+cd -
+history
+sdad
+history
+echo "Asdasd"
+echo 'sadadfdsasasdefad
+echo sadasd\n
+echo "sadsa
+echo -n "asdsada"
+echo -e "asdasda\a"
+pwd
+pwd -P
+pwd -L
+pwd -help
+ls
+exit
+ls
+exit
